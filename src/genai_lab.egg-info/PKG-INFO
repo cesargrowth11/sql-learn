@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: genai-lab
+Version: 0.1.0
+Summary: GenAI apps and scripts
+Requires-Python: >=3.10

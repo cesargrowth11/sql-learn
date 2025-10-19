@@ -3,3 +3,19 @@
 Thumbs.db
 Desktop.ini
 *.log
+
+# Python venv
+.venv/
+
+# Environment secrets
+.env
+*.env
+*/.env
+GenAI/.env
+
+# Local data outputs
+data/outputs/
+GenAI/outputs/
+
+# OS junk
+.DS_Store

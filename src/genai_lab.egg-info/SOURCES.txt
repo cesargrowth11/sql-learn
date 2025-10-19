@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/GenAI/app/app.py
+src/GenAI/clients/gemini_client.py
+src/GenAI/clients/openai_client.py
+src/GenAI/config/env.py
+src/GenAI/utils/image.py
+src/genai_lab.egg-info/PKG-INFO
+src/genai_lab.egg-info/SOURCES.txt
+src/genai_lab.egg-info/dependency_links.txt
+src/genai_lab.egg-info/top_level.txt
